@@ -4,7 +4,7 @@ import Button from '@mui/material/Button'
 /**
  * @private
  */
-export const PlainSample = (): JSX.Element => <Button variant="contained">Hello World</Button>
+export const PlainSample = (): JSX.Element => <Button variant="contained">Hello World!!!</Button>
 
 const Sample = (): JSX.Element => {
   return <PlainSample />
